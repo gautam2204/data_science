@@ -186,3 +186,4 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
 bfg.jar
+modelDevelopment_lastModule/finalProject/weatherAUS_2.csv
